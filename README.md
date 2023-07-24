@@ -1,2 +1,2 @@
 # discussions
-Discussions
+Repo for organization level discussions.
